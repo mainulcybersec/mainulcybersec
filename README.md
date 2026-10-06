@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mainul Islam 👋
 
-<!--
-**mainulcybersec/mainulcybersec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android & iOS security tester | Intern @ Byte Capsule
 
-Here are some ideas to get you started:
+## What I do
+- Mobile application security testing (Android and iOS)
+- Following OWASP MASVS / MASTG and rating issues with CVSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+Frida, Objection, MobSF, Burp Suite, ADB, jadx, apktool
+
+## Lab practice
+- AndroGoat (Android)
+- InsecureShop (Android)
+
+## Certification
+Advanced Mobile Application Security Testing Training Program, Byte Capsule (23 Sep 2026), ID: 743FYQO3
+
+## Education
+BA (Honours) in English, National University (2024 to present)
+
+## Contact
+- LinkedIn: [linkedin.com/in/mainulcybersec](https://linkedin.com/in/mainulcybersec)
+- Email: mainul.cybersec@gmail.com
+- Location: Bhola, Bangladesh
